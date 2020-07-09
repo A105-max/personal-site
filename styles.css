@@ -1,0 +1,126 @@
+body{
+  background-color: #E0EBE8;
+}
+p{
+  width:50%;
+  font-size: 1.3rem;
+  font-family: 'Fira Sans', sans-serif;
+  letter-spacing: 1px;
+  line-height: inherit;
+}
+h1{
+  color:#1e836c;
+}
+h2{
+  color: #45b29a;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width:  7px;
+  border-color: grey;
+  width: 20%;
+}
+footer{
+text-align: center;
+}
+.h4{
+  margin: 100px;
+  font-size: 15px;
+}
+.logo{
+  margin: 50px;
+  margin-left: 100PX;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  font-size: 80px;
+  color: #D92027;
+  font-family: 'Bitter', serif;
+}
+.heading{
+  font-size: 100px;
+  margin-bottom: 50px;
+  font-family: 'Italianno', cursive;
+  font-weight:bolder;
+  color:#1e836c;
+}
+.heading-2{
+font-size: 25px;
+color:#1e836c;
+font-family: 'Roboto', sans-serif;
+}
+.cloud-1{
+  position: relative;
+  left: 1050px;
+}
+.cloud-2{
+  position: static;
+  left: 150px;
+  margin-bottom: 50px;
+}
+
+
+.main{
+
+}
+
+.aryan{
+  margin-top: 50px;
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+}
+#do{
+  margin-top: 100px;
+  text-align: center;
+}
+.web{
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+  margin: 30px;
+}
+.a{
+margin: 30px;
+}
+.b{
+margin-bottom: 100px;
+}
+.w{
+margin: 50px;
+margin-bottom: 100px;
+}
+.des{
+margin: 50px;
+text-align:center;
+
+
+}
+.dev{
+
+margin: 50px;
+margin-bottom: 100px;
+
+text-align: center;
+font-size: 1.3rem;
+font-family: 'Fira Sans', sans-serif;
+letter-spacing: 1px;
+line-height: inherit;
+}
+#help{
+  text-align: center;
+  margin: 150px;
+}
+.h{
+margin: 70px;
+}
+.i{
+margin-bottom: 50px;
+}
+
+.btn{
+  background-color: #45b29a;
+}
+.you{
+
+}
